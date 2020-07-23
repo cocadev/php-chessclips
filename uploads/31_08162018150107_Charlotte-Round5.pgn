@@ -1,0 +1,93 @@
+﻿[Event "CCCSA Summer Norm IM D"]
+[Site "Charlotte, North Carolina"]
+[Date "2018.06.07"]
+[Round "?"]
+[White "Morshedi, Ali"]
+[Black "Valdes Romero, Leonardo"]
+[Result "1/2-1/2"]
+[ECO "A16"]
+[Annotator "Ali"]
+[PlyCount "127"]
+[EventDate "2018.??.??"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 d5 4. cxd5 Nxd5 5. Nc3 Nxc3 6. bxc3 Bg7 7. Nf3 O-O 8.
+O-O Nd7 9. Rb1 Nb6 10. Ng5 {This is a common idea in this position. The knight
+opens up the g2 bishop's diagonal and is heading to c5 to put pressure on
+blacks's queenside.} Rb8 11. Qc2 {I am trying to hold back on playing d4,
+because then black has something to play against for counterplay with e5 ideas.
+So I defend c3 to prepare d3. c4-c5 may be an idea also. White has a flexible
+position.} Bd7 12. d3 h6 {Once the knight comes to e4 black is preparing to
+harass the queen or possibly trade bishops with Bc6.} 13. Ne4 Ba4 14. Qb2 Bc6
+15. Qa3 {I cannot take on a7 at the moment, but the pressure is still there.
+Also I unpin the c-pawn.} Re8 16. c4 e5 17. Be3 (17. Bb2 Bf8 18. Qb3 Ba4 19.
+Qc3 {Another possible line, I can wiggle out of the corner without falling
+victim to Na4.}) 17... Kh7 18. Rfd1 {Still just developing.} f5 19. Nc3 Bxg2
+20. Kxg2 Qd7 (20... f4 21. Bxb6 (21. Bd2 Nc8 22. Ne4 b6 23. f3 Nd6 24. Nxd6
+Qxd6 25. Qxd6 cxd6 26. a4 $14) 21... axb6 22. Ne4 {Black may have some
+counterplay on the a-file, but my knight is on a great square and I can try to
+slowly improve my position and play for c5 at the right moment.}) 21. Qb3 Qc6+
+22. Kg1 e4 {Black decides to force the issue.} (22... f4 23. Bd2 f3 24. exf3
+Qxf3 25. Nb5 Rf8 26. Be3 h5 27. Rd2 h4 28. Qd1 $16) 23. c5 $1 {I thought this
+was the cleanest way for an advantage. exd3 ideas do not seem to work for
+black.} Nd7 (23... exd3 24. cxb6 Qxc3 (24... Bxc3 25. Rdc1) 25. Qxc3 Bxc3 26.
+Rxd3) (23... Bxc3 24. cxb6 cxb6 (24... Bg7 25. Rbc1) 25. Rbc1 Rbc8 26. Qf7+)
+24. d4 (24. dxe4 $1 Nxc5 (24... fxe4 25. Nb5 Nxc5 26. Nxa7 Nxb3 27. Nxc6 bxc6
+28. Rxb3 Rxb3 29. axb3 $16) (24... Bxc3 25. Qf7+ $18) 25. Qd5 Qxd5 26. Nxd5
+Nxe4 27. Bxa7 Rbd8 28. Nxc7 $16) 24... Nf6 25. d5 Qd7 {I felt good about my
+position now, but I could not come up with a good plan. Finally after spending
+too much time I decided to play for c6.} 26. Qc4 (26. d6 c6 27. Bd4 Red8 28.
+Qa3 Ra8 29. Qb2 Rab8 30. Nb5 cxb5 31. Bxf6 a6 32. Bxg7 Qxg7 33. Qxg7+ Kxg7 34.
+d7 Kf7 35. Rd6 Ke7 36. Rbd1 Rg8 37. h4 Kd8 38. Rf6 Kc7 39. Rdd6 a5 40. Rxg6
+Rxg6 41. Rxg6 b4 42. Rxh6 a4 43. Rb6 (43. Rd6 b3 (43... b5 44. h5 b3 45. axb3
+axb3 46. f3 exf3 47. exf3 b2 48. Rd1 Rd8 49. Rb1 Kxd7 50. Rxb2 Rh8 51. g4 Kc6
+52. Rh2 fxg4 53. fxg4 b4 54. h6 b3 55. g5 Ra8 56. h7 Ra1+ 57. Kf2 Ra2+ 58. Kg3
+Rxh2 59. Kxh2 b2 60. h8=Q b1=Q 61. Qd4 $18) 44. axb3 a3 45. Rd4 Ra8 46. d8=Q+
+Rxd8 47. Ra4 $18) 43... b3 44. axb3 a3 45. Rd6 a2 46. Rd1 Ra8 47. b4 Kd8 48.
+Ra1 Kxd7 49. b5 Ke6 50. Kf1 Kd5 51. c6 bxc6 52. b6 c5 53. b7 Rb8 54. Rxa2 Rxb7
+55. Ke1) (26. Bd4 Ng4 27. d6 c6 28. Bxg7 Qxg7 29. Qa3 a6 (29... Red8 30. h3 Ne5
+31. Qxa7 e3 32. fxe3 Nd7 33. Rd4 Qe5 34. Kg2 Ra8 35. Qxb7 Qxe3 36. Rd3 Qxc5 37.
+Qb4)) 26... Qf7 $1 {This forces me to capture on c6 with the queen because the
+d5 pawn is pinned and it also prepares for counter attack on the kingside.} 27.
+c6 {Sticking to my plan.} bxc6 28. Qxc6 g5 29. Bxa7 $2 {The reason I played
+this was because after an exchange of rooks on b1 I wanted to take with the
+knight. Then to defend against Qh5-Ng4 I was planning to play Nd2-Nf1, but I
+realized my e-pawn is undefended so I lost a tempo and had to come up with a
+new idea.} (29. Rxb8 Rxb8 30. Bxa7 Rg8 31. Bd4 Ng4 (31... Qh5 32. Bxf6) 32. h3
+Ne5 33. Qb7) 29... Rxb1 30. Rxb1 Qh5 (30... Rd8 31. Bd4 Rd6 32. Qc5 Nxd5 33.
+Bxg7 Kxg7 34. Rb7 Nxc3 35. Qxc3+ Kg6 36. a4 $16) (30... Ng4 31. Rb7 Re7 32. h3
+Ne5 33. Qa4 c5 34. dxc6 Rxb7 35. cxb7 Qxb7 36. Bd4 $16) 31. Qxc7 {This was my
+new plan, to counter attack on the 7th rank.} Ng4 32. h4 {Pretty much forced.}
+gxh4 33. Rb7 $2 {Sometimes move order matters! Bd4 first forces queens off
+into a much easier situation than in the game. I was in time trouble and
+missed black's idea.} (33. Bd4 Qg5 (33... Rg8 34. Rb7 Qg6 35. Bxg7 Rxg7 36.
+Qxg7+ Qxg7 37. Rxg7+ Kxg7 38. a4 e3 39. f3 Ne5 40. a5 Kf7 41. a6 Nc4 42. Na4
+$18) 34. gxh4 Re7 35. hxg5 Rxc7 36. d6 Rd7 37. Bxg7 Kxg7 38. Nb5 hxg5 39. a4
+Ne5 40. a5 Rd8 41. a6 Kf6 42. a7 Nc6 43. Ra1 Ra8 44. Ra6 $18) 33... Qg6 34. Bd4
+(34. d6 {It was hard for me to make a move like this in time trouble. It cuts
+off my queen from the kingside, but when you realize it is going to d7 next
+move and the queen will again be defending g3 it should be considered.} hxg3
+35. fxg3 Ne5 36. Bf2 e3 (36... Rf8 37. d7 Nf7 38. Nd5 $18 Qe6 39. d8=Q Rxd8 40.
+Nf4 Qxa2 41. Qxf7) (36... Qg5 37. Kg2 f4 38. Nxe4 Qg6 39. Qxg7+ Qxg7 40. Nf6+
+Kg6 41. Rxg7+ Kxf6 42. Rb7 fxg3 43. Bd4 $18) 37. Be1 f4 38. d7 Rg8 39. d8=Q
+Rxd8 40. Qxd8 f3 41. Qd5 f2+ 42. Bxf2 exf2+ 43. Kxf2 Ng4+ 44. Kg1 Nf6 45. Qd3
+$18) 34... Nf6 $1 {I missed this retreat. I thought I was going to encounter
+Rg8, then I would exchange everything and push my a-pawn.} 35. Qf7 {Maybe not
+the best move, but I did not want to run into anymore surprises.} (35. d6 hxg3
+36. Nd5 gxf2+ 37. Kxf2 Ng4+ 38. Ke1 Ne5 39. d7 e3 40. Nf6+ Qxf6 41. dxe8=Q Qh4+
+42. Kd1 Qxd4+ 43. Kc1 Qd2+ 44. Kb1 Qd1+ 45. Qc1 Qd5 46. Qb5 Qe4+ 47. Qc2 Qh1+
+48. Kb2 Nc4+ 49. Kb3 Nd2+ 50. Ka3 Nb1+ 51. Qcxb1 $18 {Black finally runs out
+of steam! But is it practical to try and calculate all of those lines?}) 35...
+Qxf7 36. Rxf7 Kg6 37. Rb7 hxg3 38. fxg3 Rc8 {Ok the dust has settled a bit and
+we get into one of those situations where the rest is a matter of technique...
+I had about 1 minute left with 30 sec increment.} 39. d6 Nh5 40. Bxg7 Nxg7 41.
+d7 Rd8 42. Nd5 Kf7 43. Nb6 (43. Nb4 Ke6 44. Rb6+ Kxd7 45. Rb7+ $18) 43... Ne6
+44. Kf2 (44. a4 Nc5 45. Rc7 Na6 46. Rc6 Nb8 47. Rxh6 Nxd7 48. Rh7+ Ke8 49. Nxd7
+Rxd7 50. Rxd7 Kxd7 51. Kf2 $18) 44... Ke7 45. Nc8+ Kf6 46. Ke3 (46. a4 Nc5 47.
+Rb6+ Kg5 48. Rb5 Nxd7 49. Nd6 Ra8 50. a5 Kg4 51. Nc4 Kg5 52. Ne3 $18) 46... Nc5
+47. Rb6+ Ke5 48. Rb5 Kd5 49. Ne7+ (49. a4 Kc6 50. Ne7+ Kxd7 51. Rxc5 Kxe7 52.
+Rxf5 $18) 49... Kc4 50. Rb6 Rxd7 51. Nxf5 Ra7 52. Rxh6 Ra3+ 53. Kf4 Rxa2 54. e3
+Rf2+ 55. Ke5 Kd3 56. g4 (56. Rd6+ Ke2 57. Rc6 Nb3 58. g4 Rg2 59. Kf4 Rf2+ 60.
+Kxe4 Nd2+ 61. Kd5 $18) 56... Rg2 57. Rg6 Nd7+ 58. Kd6 $11 (58. Kf4 Rf2+ 59. Kg3
+Ke2 60. Re6 $18) 58... Nb6 59. Rg8 Nc4+ 60. Kc5 Nxe3 61. Rd8+ Ke2 62. Nd6 Rxg4
+63. Re8 Kd3 64. Rxe4 1/2-1/2
+

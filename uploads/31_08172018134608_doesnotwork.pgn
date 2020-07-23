@@ -1,0 +1,15 @@
+﻿[Event "ICC"]
+[Site "Internet Chess Club"]
+[Date "2018.08.16"]
+[White "getnice89"]
+[Black "motorhome"]
+[Result "0-1"]
+[WhiteElo "2029"]
+[BlackElo "2205"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[TimeControl "300+0"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 dxc6 5. O-O Bg7 6. d3 e5 7. Nc3 Ne7
+

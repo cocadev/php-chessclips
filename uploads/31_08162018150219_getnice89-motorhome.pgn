@@ -1,0 +1,20 @@
+[Event "ICC"]
+[Site "Internet Chess Club"]
+[Date "2018.08.16"]
+[White "getnice89"]
+[Black "motorhome"]
+[Result "0-1"]
+[WhiteElo "2029"]
+[BlackElo "2205"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[TimeControl "300+0"]
+
+{Disconnection will count as a forfeit.} 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 
+6. Nxc6 dxc6 7. Qxd8+ Kxd8 8. Bf4 Bb4 9. O-O-O+ Ke7 10. f3 Bxc3 
+11. bxc3 Ne8 12. c4 c5 13. e5 h6 14. h4 b6 15. h5 Bb7 
+16. Bg3 Rd8 17. Bh4+ f6 18. exf6+ Nxf6 19. Bd3 Rd7 20. Rde1 Ba6 
+21. Re3 Rd4 22. Bf5 Bxc4 23. g4 Kd7 24. Bg6 Nd5 25. Re5 Nf4 
+{{Game 277 (getnice89 vs. motorhome) getnice89 resigns} 0-1} {5-minute rating adjustment: 2196 --> 2205}0-1
+

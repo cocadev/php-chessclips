@@ -1,0 +1,69 @@
+﻿[Event "CCCSA Summer Norm IM D"]
+[Site "Charlotte, North Carolina"]
+[Date "2018.06.06"]
+[Round "?"]
+[White "Yip, Carissa"]
+[Black "Morshedi, Ali"]
+[Result "1-0"]
+[ECO "D30"]
+[Annotator "Ali"]
+[PlyCount "125"]
+[EventDate "2018.??.??"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 e6 4. d4 {This was a tricky move order. I planned
+to meet c4 with Bb4+ Bd2 followed by Be7 to prevent white from the Qc2 Nbd2 e4
+plan I discussed in Video 1. But by delaying c4, Bb4+ makes less sense because
+of c3.} c5 5. O-O Be7 (5... cxd4 6. Nxd4 e5 {This fits my style a bit more,
+but there is nothing wrong with the move played. I just didn't know the theory
+and ended up spending way too much time in the opening.}) 6. dxc5 Bxc5 7. c4
+O-O 8. cxd5 exd5 9. Bg5 Be6 10. Nc3 Nbd7 (10... Nc6 11. Bxf6 Qxf6 12. Nxd5 Qxb2
+13. Nc7 Rad8 14. Qc1 Qxc1 15. Raxc1 b6 16. Nxe6 fxe6) 11. Rc1 Rc8 12. Nd4 h6
+13. Bf4 Nb6 {I had spent over an hour for the opening and was not familiar
+with the ideas in the position.} (13... a6 14. Nxe6 fxe6 15. e4 (15. Bh3 Qe7)
+15... e5 16. Bd2 d4 17. Ne2) 14. b3 Bg4 $2 {When I played this move during the
+game I thought my position was improving. Ideas like Re8-Qd7 were natural
+moves to complete my development, but I missed white's idea.} 15. Ncb5 $1 Na8 (
+15... a6 16. Na7) (15... Qe7 16. Rxc5 Qxc5 17. Bd6) 16. h3 Bh5 {Trying to keep
+pressure on e2. I knew Nf5 is an idea now and my c8 rook is undefended so I
+would have to trade my dark square bishop for the knight. Be6 may have been
+the best move, just admitting my mistake of Bg4.} 17. Nd6 $1 Bxd6 18. Rxc8 Qxc8
+19. Bxd6 Re8 20. Ba3 (20. Bb4 {To cover c3.}) 20... Qc3 $1 {Preventing Bb2 and
+putting pressure on d4 so the queen is tied down.} 21. g4 Bg6 22. e3 Nb6 23.
+Qc1 Qa5 24. Bb2 Rc8 25. Qa1 Nbd7 {My original ideas in the opening cost me a
+lot of time. Nb6 and Bg4 were not the best...} 26. Rd1 Qd8 {I wanted to play
+h5 and attack the weakened kingside when my queen is ready to come into play,
+but I did not want to do it too soon as g7 will be attacked.} 27. Ne2 Rc2 28.
+Nf4 Be4 29. Nxd5 $5 {Something didn't feel right about this move, but I had
+less than 1 min to sort it out so I played the safest line to get a small
+initiative, but I missed the best move.} (29. Rc1 {White needs to try to
+remove or trade this pesky rook.}) 29... Bxd5 (29... Nxg4 $1 30. hxg4 (30. Bxe4
+Qh4 $19) (30. Bxg7 Qh4 31. Ne7+ Qxe7 $19) (30. Rc1 Bxg2 31. Rxc2 Bxd5 32. hxg4
+Qh4 33. Kf1 $13) 30... Qh4 31. Rf1 Bxg2 32. Kxg2 Qxg4+ 33. Kh2 Qh5+ $19) 30.
+Bxd5 (30. Bxf6 Nxf6 31. Qe5 Rxa2 32. Bxd5 Ra5 33. e4 Kf8 34. b4 Rb5 35. Rd4
+Nxd5 36. Rxd5 Rxd5 37. exd5 f6 38. Qf5 $11) 30... Nxd5 31. Rxd5 Qh4 32. Qf1 {
+I felt like my opponent did not see this position when she went for Nxd5, but
+everything seemed to work out for white, but I think black is slightly better
+now.} Rxb2 (32... Nb6 33. Rh5 $14) (32... Nc5 $1 33. Rh5 Qd8 34. Bd4 Ne6 {
+The knight c5-e6 manuever looks strong covering e6 and finally reaching a good
+post after once upon a time being on a8. The position is equal but blacks
+pieces look slightly more coordinated.}) 33. Rxd7 h5 34. gxh5 Rxa2 35. Rxb7
+Qxh5 $2 {Time trouble...I was about to play Ra5 but I wanted to keep pressure
+on f2, but this was the losing mistake.} (35... Qg5+ 36. Qg2 (36. Kh1 Qd5+ 37.
+Qg2 Qd1+ 38. Qg1 Qf3+ 39. Qg2 Rxf2 40. Qxf3 Rxf3 41. Rxa7 Rxe3 $11) 36... Ra1+
+37. Kh2 Qe5+ 38. Qg3 Qe4 39. Rb8+ Kh7 40. Qg2 Qe5+ 41. Qg3 $11) 36. Qb1 $1 {
+This move order threatens Rb8 checkmate and my rook on a2. I did not see the
+proper response and I quickly get into a lost rook and pawn endgame.} Qg6+ $2 {
+In time trouble I missed Qg5+ followed by Rd2 to return with Rd8 and cover the
+bank rank.} (36... Qg5+ $1 37. Kf1 Rd2 38. Qe4 Rd1+ 39. Ke2 Qh5+ 40. Qg4 Qa5
+41. Kxd1 Qd5+ 42. Ke2 Qxb7 $14 {This would be very difficult to win.}) 37. Qxg6
+fxg6 38. b4 Ra6 39. Kg2 Kh7 40. Kg3 Kh6 41. f3 Ra1 42. e4 g5 43. Rb5 g6 44. Rb8
+Kg7 45. b5 Kf6 46. Rf8+ Ke5 47. Ra8 Rg1+ 48. Kf2 Rb1 49. Rxa7 Rxb5 50. Ra6 Rb2+
+51. Kg3 Kd4 52. Rxg6 Ke3 53. Rxg5 Rb1 54. Kg4 Rg1+ 55. Kf5 Rf1 56. Rg3 Kf2 57.
+Rg4 Rh1 58. f4 Rxh3 59. e5 Kf3 60. e6 Rh5+ 61. Rg5 Rh4 62. e7 Rxf4+ 63. Ke6 {
+I spent too much time in the opening of this game and did not have time to
+think in the crucial positions resulting later on. My opponent played quickly
+in the opening and went for all the sharp lines and it paid off. Ncb5, Nxd5
+and Qb1 were all the sharp moves in the position and I did not deal with Qb1
+properly, but overall I thought I played well. Time management was the main
+problem.} 1-0
+
