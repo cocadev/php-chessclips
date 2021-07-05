@@ -1,3 +1,3 @@
-# php-chessclips 2
+# php chess clips
 
 PHP Mysql MariaDB Chess game website
